@@ -1,0 +1,13 @@
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.exe
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.deps.json
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.runtimeconfig.json
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.runtimeconfig.dev.json
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.dll
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\bin\Debug\netcoreapp3.1\Program15.pdb
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.csprojAssemblyReference.cache
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.AssemblyInfoInputs.cache
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.AssemblyInfo.cs
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.dll
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.pdb
+C:\Users\Usuario\Dropbox\Emilio Trabajos\Mis Documentos\github-repos\Program15\Program15\obj\Debug\netcoreapp3.1\Program15.genruntimeconfig.cache
